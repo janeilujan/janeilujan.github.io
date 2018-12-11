@@ -1,0 +1,12 @@
+html { 
+    background-image: url(../wave.jpg)
+}
+
+body {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 56pt;
+    font-style: bold;
+    color: white;
+}
+

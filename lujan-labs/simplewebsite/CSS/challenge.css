@@ -1,0 +1,42 @@
+html{
+    background-image:url(../triangles.jpg);
+}
+body {
+    width: 700px;
+    padding:50px;
+    margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: 'monospace', 'fantasy';
+    border: 4px groove #000;
+    background-color: #C3E8BD;
+}
+
+a {
+    font-size: 18pt;
+    color: coral;
+    text-decoration: none;
+}
+
+a:hover{
+    
+    color: lightgoldenrodyellow;
+}
+
+h1 {
+    font-size: 36;
+    color: #000;
+    border-top: 2px dotted #FF9F1C;
+}
+
+p{
+    font-size: 12pt;
+    line-height: 14;
+}
+
+img{
+    border: 5px groove #3B6064;
+    box-shadow: 6px 6px 6px
+        rgba(0,0,0,.3)
+}
