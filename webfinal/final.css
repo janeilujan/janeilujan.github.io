@@ -1,0 +1,51 @@
+html {
+    background-color: cornsilk;
+}
+
+body {
+    width: 700px;
+    padding: 50px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;   
+    border: 4px dotted black 
+}
+
+a {
+    font-size: 20px;
+    color: gold;
+    text-decoration: none;    
+}
+
+a:hover {
+    color:indianred;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 36pt;
+    font-family: 'Shrikhand', cursive;
+    letter-spacing: 5pt;
+    
+}
+
+h2 {
+    font-size: 14pt;
+    font-family:'Shrikhand', cursive;     
+    letter-spacing: 1pt;
+}
+
+h3 {
+    font font-size: 14pt;
+    line-height: 16pt;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: justify
+}
+
+
